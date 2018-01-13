@@ -1,5 +1,8 @@
 # common-screen-dimensions
 
+Using the data from [Viewport Sizes](http://viewportsizes.com/), I've listed the dimensions by frequency.
+
+
 ```
 Name                           Value
 ----                           -----
