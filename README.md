@@ -6,7 +6,7 @@ Data from 2018-01-14:
 
 
 ```
-Name                           Value
+Dimension                      Frequency
 ----                           -----
 320                            106
 480                            57
