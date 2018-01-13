@@ -1,5 +1,6 @@
 # common-screen-dimensions
 
+```
 Name                           Value
 ----                           -----
 320                            106
@@ -77,3 +78,4 @@ Name                           Value
 256                            1
 234                            1
 128                            1
+```
