@@ -36,7 +36,18 @@ if (Test-Path -Path "dimensions.txt" -PathType Leaf) {
     Remove-Item -Path "dimensions.txt"
 }
 
-($dimensions | Format-Table | Out-String) | Out-File -FilePath "dimensions.txt"
+$output = ($dimensions | Format-Table | Out-String)
+$output = $output -split "`r`n"
+$trimmed = @()
+$output | ForEach-Object {
+    $line = $_.Trim()
+    if ($line -ne "") {
+        $trimmed += $line
+    }
+}
+$trimmed = $trimmed -join "`r`n"
+
+$trimmed | Out-File -FilePath "dimensions.txt"
 
 Start-Process -FilePath "C:\Windows\notepad.exe" -ArgumentList "dimensions.txt"
 
