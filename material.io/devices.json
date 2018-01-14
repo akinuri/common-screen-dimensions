@@ -1,0 +1,434 @@
+[
+	{
+		"Device Name": "Android One",
+		"Platform": "Android",
+		"Portrait Width": "320",
+		"Landscape Width": "569"
+	},
+	{
+		"Device Name": "Asus Zen Watch",
+		"Platform": "Android",
+		"Portrait Width": "213",
+		"Landscape Width": "213"
+	},
+	{
+		"Device Name": "Dell Venue 8",
+		"Platform": "Android",
+		"Portrait Width": "800",
+		"Landscape Width": "1280"
+	},
+	{
+		"Device Name": "Google Pixel",
+		"Platform": "Android",
+		"Portrait Width": "411",
+		"Landscape Width": "731"
+	},
+	{
+		"Device Name": "Google Pixel XL",
+		"Platform": "Android",
+		"Portrait Width": "411",
+		"Landscape Width": "731"
+	},
+	{
+		"Device Name": "HTC One M8",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "HTC One M9",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG G Watch",
+		"Platform": "Android",
+		"Portrait Width": "187",
+		"Landscape Width": "187"
+	},
+	{
+		"Device Name": "LG G Watch R",
+		"Platform": "Android",
+		"Portrait Width": "213",
+		"Landscape Width": "213"
+	},
+	{
+		"Device Name": "LG G2",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG G3",
+		"Platform": "Android",
+		"Portrait Width": "480",
+		"Landscape Width": "853"
+	},
+	{
+		"Device Name": "Moto 360",
+		"Platform": "Android",
+		"Portrait Width": "241",
+		"Landscape Width": "218"
+	},
+	{
+		"Device Name": "Moto 360 v2 42mm",
+		"Platform": "Android",
+		"Portrait Width": "241",
+		"Landscape Width": "244"
+	},
+	{
+		"Device Name": "Moto 360 v2 46mm",
+		"Platform": "Android",
+		"Portrait Width": "241",
+		"Landscape Width": "248"
+	},
+	{
+		"Device Name": "Moto G",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Moto X",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Moto X (2nd Gen)",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Nexus 10",
+		"Platform": "Android",
+		"Portrait Width": "1280",
+		"Landscape Width": "800"
+	},
+	{
+		"Device Name": "Nexus 4",
+		"Platform": "Android",
+		"Portrait Width": "384",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Nexus 5",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Nexus 5X",
+		"Platform": "Android",
+		"Portrait Width": "411",
+		"Landscape Width": "731"
+	},
+	{
+		"Device Name": "Nexus 6",
+		"Platform": "Android",
+		"Portrait Width": "411",
+		"Landscape Width": "731"
+	},
+	{
+		"Device Name": "Nexus 6P",
+		"Platform": "Android",
+		"Portrait Width": "411",
+		"Landscape Width": "731"
+	},
+	{
+		"Device Name": "Nexus 7 ('12)",
+		"Platform": "Android",
+		"Portrait Width": "600",
+		"Landscape Width": "960"
+	},
+	{
+		"Device Name": "Nexus 7 ('13)",
+		"Platform": "Android",
+		"Portrait Width": "600",
+		"Landscape Width": "960"
+	},
+	{
+		"Device Name": "Nexus 9",
+		"Platform": "Android",
+		"Portrait Width": "1024",
+		"Landscape Width": "768"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note 4",
+		"Platform": "Android",
+		"Portrait Width": "480",
+		"Landscape Width": "853"
+	},
+	{
+		"Device Name": "Samsung Galaxy S5",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S6",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S7",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S7 Edge",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S8",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "740"
+	},
+	{
+		"Device Name": "Samsung Galaxy S8+",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "740"
+	},
+	{
+		"Device Name": "Samsung Galaxy Tab 10",
+		"Platform": "Android",
+		"Portrait Width": "800",
+		"Landscape Width": "1280"
+	},
+	{
+		"Device Name": "Samsung Gear Live",
+		"Platform": "Android",
+		"Portrait Width": "213",
+		"Landscape Width": "213"
+	},
+	{
+		"Device Name": "Sony Smartwatch 3",
+		"Platform": "Android",
+		"Portrait Width": "213",
+		"Landscape Width": "213"
+	},
+	{
+		"Device Name": "Sony Xperia C4",
+		"Platform": "Android",
+		"Portrait Width": "540",
+		"Landscape Width": "960"
+	},
+	{
+		"Device Name": "Sony Xperia Z Ultra",
+		"Platform": "Android",
+		"Portrait Width": "540",
+		"Landscape Width": "960"
+	},
+	{
+		"Device Name": "Sony Xperia Z1 Compact",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia Z2/Z3",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia Z3 Compact",
+		"Platform": "Android",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia Z3 Tablet",
+		"Platform": "Android",
+		"Portrait Width": "960",
+		"Landscape Width": "600"
+	},
+	{
+		"Device Name": "Sony Xperia Z4 Tablet",
+		"Platform": "Android",
+		"Portrait Width": "1280",
+		"Landscape Width": "800"
+	},
+	{
+		"Device Name": "Chromebook 11",
+		"Platform": "Chrome",
+		"Portrait Width": "1366",
+		"Landscape Width": "768"
+	},
+	{
+		"Device Name": "Chromebook Pixel",
+		"Platform": "Chrome",
+		"Portrait Width": "1280",
+		"Landscape Width": "850"
+	},
+	{
+		"Device Name": "Chromebox 30",
+		"Platform": "Chrome",
+		"Portrait Width": "2560",
+		"Landscape Width": "1600"
+	},
+	{
+		"Device Name": "Apple Watch 38mm",
+		"Platform": "iOS",
+		"Portrait Width": "136",
+		"Landscape Width": "170"
+	},
+	{
+		"Device Name": "Apple Watch 42mm",
+		"Platform": "iOS",
+		"Portrait Width": "156",
+		"Landscape Width": "195"
+	},
+	{
+		"Device Name": "iPad",
+		"Platform": "iOS",
+		"Portrait Width": "768",
+		"Landscape Width": "1024"
+	},
+	{
+		"Device Name": "iPad Mini",
+		"Platform": "iOS",
+		"Portrait Width": "768",
+		"Landscape Width": "1024"
+	},
+	{
+		"Device Name": "iPad Mini Retina",
+		"Platform": "iOS",
+		"Portrait Width": "768",
+		"Landscape Width": "1024"
+	},
+	{
+		"Device Name": "iPad Pro",
+		"Platform": "iOS",
+		"Portrait Width": "1366",
+		"Landscape Width": "1024"
+	},
+	{
+		"Device Name": "iPad Retina",
+		"Platform": "iOS",
+		"Portrait Width": "768",
+		"Landscape Width": "1024"
+	},
+	{
+		"Device Name": "iPhone",
+		"Platform": "iOS",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "iPhone 4",
+		"Platform": "iOS",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "iPhone 5",
+		"Platform": "iOS",
+		"Portrait Width": "320",
+		"Landscape Width": "568"
+	},
+	{
+		"Device Name": "iPhone 6",
+		"Platform": "iOS",
+		"Portrait Width": "375",
+		"Landscape Width": "667"
+	},
+	{
+		"Device Name": "iPhone 6 Plus",
+		"Platform": "iOS",
+		"Portrait Width": "414",
+		"Landscape Width": "736"
+	},
+	{
+		"Device Name": "iMac 27",
+		"Platform": "OS X",
+		"Portrait Width": "2560",
+		"Landscape Width": "1440"
+	},
+	{
+		"Device Name": "iMac 5K",
+		"Platform": "OS X",
+		"Portrait Width": "2560",
+		"Landscape Width": "1440"
+	},
+	{
+		"Device Name": "MacBook 12",
+		"Platform": "OS X",
+		"Portrait Width": "1280",
+		"Landscape Width": "800"
+	},
+	{
+		"Device Name": "MacBook Air 11",
+		"Platform": "OS X",
+		"Portrait Width": "1366",
+		"Landscape Width": "768"
+	},
+	{
+		"Device Name": "MacBook Air 13",
+		"Platform": "OS X",
+		"Portrait Width": "1440",
+		"Landscape Width": "900"
+	},
+	{
+		"Device Name": "MacBook Pro 13",
+		"Platform": "OS X",
+		"Portrait Width": "1280",
+		"Landscape Width": "800"
+	},
+	{
+		"Device Name": "MacBook Pro 15",
+		"Platform": "OS X",
+		"Portrait Width": "1440",
+		"Landscape Width": "900"
+	},
+	{
+		"Device Name": "Surface",
+		"Platform": "Windows",
+		"Portrait Width": "1366",
+		"Landscape Width": "768"
+	},
+	{
+		"Device Name": "Surface 2",
+		"Platform": "Windows",
+		"Portrait Width": "1280",
+		"Landscape Width": "720"
+	},
+	{
+		"Device Name": "Surface 3",
+		"Platform": "Windows",
+		"Portrait Width": "1280",
+		"Landscape Width": "720"
+	},
+	{
+		"Device Name": "Surface Book",
+		"Platform": "Windows",
+		"Portrait Width": "1500",
+		"Landscape Width": "1000"
+	},
+	{
+		"Device Name": "Surface Pro",
+		"Platform": "Windows",
+		"Portrait Width": "1280",
+		"Landscape Width": "720"
+	},
+	{
+		"Device Name": "Surface Pro 3",
+		"Platform": "Windows",
+		"Portrait Width": "1440",
+		"Landscape Width": "960"
+	},
+	{
+		"Device Name": "Surface Pro 4",
+		"Platform": "Windows",
+		"Portrait Width": "1368",
+		"Landscape Width": "912"
+	}
+]

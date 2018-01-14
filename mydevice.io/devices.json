@@ -1,0 +1,297 @@
+[
+	{
+		"Device Name": "Apple iPhone X",
+		"Portrait Width": "375",
+		"Landscape Width": "812"
+	},
+	{
+		"Device Name": "Apple iPhone 6+, 6s+, 7+, 8+",
+		"Portrait Width": "414",
+		"Landscape Width": "736"
+	},
+	{
+		"Device Name": "Apple iPhone 7, iPhone 8",
+		"Portrait Width": "375",
+		"Landscape Width": "667"
+	},
+	{
+		"Device Name": "Apple iPhone 6, 6s",
+		"Portrait Width": "375",
+		"Landscape Width": "667"
+	},
+	{
+		"Device Name": "Apple iPhone 5",
+		"Portrait Width": "320",
+		"Landscape Width": "568"
+	},
+	{
+		"Device Name": "Apple iPhone 4",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Apple iPhone 3",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Apple iPod Touch",
+		"Portrait Width": "320",
+		"Landscape Width": "568"
+	},
+	{
+		"Device Name": "LG G5",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG G4",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG G3",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG Optimus G",
+		"Portrait Width": "384",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S8+",
+		"Portrait Width": "360",
+		"Landscape Width": "740"
+	},
+	{
+		"Device Name": "Samsung Galaxy S8",
+		"Portrait Width": "360",
+		"Landscape Width": "740"
+	},
+	{
+		"Device Name": "Samsung Galaxy S7, S7 edge",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S6",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S5",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S4",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S4 mini",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S3",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy S3 mini",
+		"Portrait Width": "320",
+		"Landscape Width": "533"
+	},
+	{
+		"Device Name": "Samsung Galaxy S2",
+		"Portrait Width": "320",
+		"Landscape Width": "533"
+	},
+	{
+		"Device Name": "Samsung Galaxy S",
+		"Portrait Width": "320",
+		"Landscape Width": "533"
+	},
+	{
+		"Device Name": "Samsung Galaxy Nexus",
+		"Portrait Width": "360",
+		"Landscape Width": "600"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note 8",
+		"Portrait Width": "360",
+		"Landscape Width": "740"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note 4",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note 3",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note 2",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Samsung Galaxy Note",
+		"Portrait Width": "400",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG Nexus 5",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "LG Nexus 4",
+		"Portrait Width": "384",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Microsoft Lumia 1520",
+		"Portrait Width": "432",
+		"Landscape Width": "768"
+	},
+	{
+		"Device Name": "Microsoft Lumia 1020",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Microsoft Lumia 925",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Microsoft Lumia 920",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Microsoft Lumia 900",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Microsoft Lumia 830",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Microsoft Lumia 620",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "Motorola Nexus 6",
+		"Portrait Width": "412",
+		"Landscape Width": "690"
+	},
+	{
+		"Device Name": "HTC One",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "HTC 8X",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "HTC Evo 3D",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia Z3",
+		"Portrait Width": "360",
+		"Landscape Width": "598"
+	},
+	{
+		"Device Name": "Sony Xperia Z",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia S",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Sony Xperia P",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Xiaomi Mi 4",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Xiaomi Mi 3",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Lenovo K900",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Pantech Vega n°6",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Blackberry Leap",
+		"Portrait Width": "390",
+		"Landscape Width": "695"
+	},
+	{
+		"Device Name": "Blackberry Passport",
+		"Portrait Width": "504",
+		"Landscape Width": "504"
+	},
+	{
+		"Device Name": "Blackberry Classic",
+		"Portrait Width": "390",
+		"Landscape Width": "390"
+	},
+	{
+		"Device Name": "Blackberry Q10",
+		"Portrait Width": "346",
+		"Landscape Width": "346"
+	},
+	{
+		"Device Name": "Blackberry Z30",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Blackberry Z10",
+		"Portrait Width": "384",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "Blackberry Torch 9800",
+		"Portrait Width": "360",
+		"Landscape Width": "480"
+	},
+	{
+		"Device Name": "ZTE Grand S",
+		"Portrait Width": "360",
+		"Landscape Width": "640"
+	},
+	{
+		"Device Name": "ZTE Open (Firefox OS)",
+		"Portrait Width": "320",
+		"Landscape Width": "480"
+	}
+]
