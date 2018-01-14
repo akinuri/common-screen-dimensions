@@ -2,7 +2,7 @@
 
 Using the data from 4 websites that list various screen sizes, I've listed the dimensions by frequency.
 
-These values might be misleading. For example, take `360`. While the most of the devices have `360` as their "width", a device with, say, `600` as its width might be more popular (sold/bought)... So, be careful.
+These values might be misleading. For example, take `360`. While the most of the devices have `360` as their "width", a device with, say, `600` as its width might be more popular (used by majority)... So, be careful.
 
 The following table is the sum of all the data from the websites. For individual frequencies, check their own folders.
 
