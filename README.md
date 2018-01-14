@@ -4,7 +4,7 @@ Using the data from 4 websites that list various screen sizes, I've listed the d
 
 The following table is the sum of all the data from the websites. For individual frequencies, check their own folders.
 
-Data from 2018-01-15:
+Data from 2018-01-14:
 
 ```
 Dimension                      Frequency
