@@ -30,4 +30,4 @@ rows.forEach(function (row) {
 
 var json = JSON.stringify(devices, null, "\t");
 
-downloadText(json, "devices_mydevice.io.json");
+downloadText(json, "devices.json");

@@ -31,4 +31,4 @@ rows.forEach(function (row) {
 
 var json = JSON.stringify(devices, null, "\t");
 
-downloadText(json, "devices_screensiz.es.json");
+downloadText(json, "devices.json");
