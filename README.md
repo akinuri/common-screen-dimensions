@@ -2,7 +2,7 @@
 
 Using the data from 4 websites that list various screen sizes, I've listed the dimensions by frequency.
 
-The following table is the sum of all the data from 4 websites. For individual frequencies, check their own folders.
+The following table is the sum of all the data from the websites. For individual frequencies, check their own folders.
 
 Data from 2018-01-15:
 
